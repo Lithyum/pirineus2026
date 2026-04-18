@@ -11,16 +11,16 @@ Objetivo: ganhar quilómetros e chegar descansado ao sopé dos Pirenéus.
 
 ## 🛏️ Hotel
 - **Hotel Sancho Abarca (Huesca)**
- -- 💶 ~65–80€
- -- 📍 Centro, mas com acessos fáceis
- -- ✅ Muito usado por viajantes de passagem
+	- 💶 ~65–80€
+	- 📍 Centro, mas com acessos fáceis
+	- ✅ Muito usado por viajantes de passagem
 - **Hotel Pedro I de Aragón (Huesca)**
- -- Biker friendly 
- -- Central mas com acesso simples
- -- Boa opção para chegar tarde
+	- Biker friendly 
+	- Central mas com acesso simples
+	- Boa opção para chegar tarde
 - **Hotel Abba Huesca**
- -- Fácil entrada/saída da cidade
- -- Boa relação conforto / preço
+	- Fácil entrada/saída da cidade
+	- Boa relação conforto / preço
 
 ## GPX
 - `gpx/roteiro_pirineus_bigtrail.gpx`
