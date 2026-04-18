@@ -1,0 +1,8 @@
+title: "Pirenéus de Big Trail"
+description: "Roteiro de 8 dias em mota big trail — Lisboa, Pirenéus e Andorra"
+theme: minima
+
+collections:
+  days:
+    output: true
+    permalink: /:collection/:name/
