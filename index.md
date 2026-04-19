@@ -17,7 +17,7 @@ Viagem focada em:
 
 ## 📆 Itinerário
 
-{% for day in site.days %}
+{% for day in site._days %}
 - [{{ day.title }}]({{ day.url }})
 {% endfor %}
 
