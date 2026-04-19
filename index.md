@@ -25,10 +25,10 @@ Viagem focada em:
 
 ## 🗺️ Mapa Geral
 
-![Mapa geral](/assets/mapa_geral.png)
+1 [Mapa geral(/assets/mapa_geral.png)
 
 ### 📍 GPX
-![Download](/gpx/roteiro_pirineus_bigtrail.gpx)
+[Download](/gpx/roteiro_pirineus_bigtrail.gpx)
 
 #### Como usar este GPX da melhor forma (big trail)
 **Opção A — Navegação simples**
