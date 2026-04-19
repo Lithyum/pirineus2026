@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Dia 4 — Vale de Aspe → Col d’Aubisque → Luz‑Saint‑Sauveur"
+day: 4
+---
+
 # Dia 4 — Vale de Aspe → Col d’Aubisque → Luz‑Saint‑Sauveur
 
 - **Distância / Tempo:** ≈140 km · ~5h  

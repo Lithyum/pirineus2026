@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Dia 1 — Lisboa → Huesca"
+day: 1
+---
+
 # Dia 1 — Lisboa → Huesca
 
 - **Distância / Tempo:** ≈900 km · ~9h  

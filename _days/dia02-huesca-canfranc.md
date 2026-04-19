@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Dia 2 — Huesca → Canfranc"
+day: 2
+---
+
 # Dia 2 — Huesca → Canfranc
 
 - **Distância / Tempo:** ≈150 km · ~4h  

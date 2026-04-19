@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Dia 7 — Andorra → Pirenéus catalães → Zaragoza"
+day: 7
+---
+
 # Dia 7 — Andorra → Pirenéus catalães → Zaragoza
 
 - **Distância / Tempo:** ≈300 km · ~5h  
@@ -22,9 +28,9 @@ Transição da montanha para as planícies de Aragão.
 	- 📍 Simples e funcional
 	- ✅ Ideal para uma noite
 - **Hotel Hiberus**
- -- Acesso rápido às vias principais
+	- Acesso rápido às vias principais
 - **Hotel Eurostars Zaragoza**
- -- Fácil de entrar e sair da cidade
+	- Fácil de entrar e sair da cidade
 
 ## GPX
 - `gpx/roteiro_pirineus_bigtrail.gpx`
