@@ -17,18 +17,23 @@ Viagem focada em:
 
 ## 📆 Itinerário
 
-{% for day in site._days %}
-- [{{ day.title }}]({{ day.url }})
+
+Coleções: {{ site.collections | map: "label" | join: ", " }}
+
+{% assign sorted_days = site.days | sort: "day" %}
+
+{% for day in sorted_days %}
+- [{{ day.title }}]({{ day.url | relative_url }})
 {% endfor %}
 
 ---
 
 ## 🗺️ Mapa Geral
 
-![Mapa geral](/assets/mapa_geral.png)
+1 [Mapa geral](/assets/mapa_geral.png)
 
 ### 📍 GPX
-![Download](/gpx/roteiro_pirineus_bigtrail.gpx)
+[Download](/gpx/roteiro_pirineus_bigtrail.gpx)
 
 #### Como usar este GPX da melhor forma (big trail)
 **Opção A — Navegação simples**

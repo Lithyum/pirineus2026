@@ -1,8 +1,10 @@
 title: "Pirenéus de Big Trail"
 description: "Roteiro de 8 dias em mota big trail — Lisboa, Pirenéus e Andorra"
 theme: minima
+baseurl: "/pirineus2026"
+url: "https://lithyum.github.io"
 
 collections:
   days:
     output: true
-    permalink: /:collection/:name/
+    permalink: /days/:name/

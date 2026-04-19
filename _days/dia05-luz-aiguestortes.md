@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Dia 5 — Luz → Gavarnie → Aigüestortes"
+day: 5
+---
+
 # Dia 5 — Luz → Gavarnie → Aigüestortes
 
 🎯 Natureza + off‑road Bonaigua

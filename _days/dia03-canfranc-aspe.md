@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Dia 3 — Canfranc → Col du Somport → Vale de Aspe (França)"
+day: 3
+---
+
 # Dia 3 — Canfranc → Col du Somport → Vale de Aspe (França)
 
 - **Distância / Tempo:** ≈120 km · ~4h  
