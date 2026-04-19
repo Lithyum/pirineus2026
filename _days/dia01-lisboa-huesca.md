@@ -11,9 +11,13 @@ Objetivo: ganhar quilómetros e chegar descansado ao sopé dos Pirenéus.
 
 ## 🛏️ Hotel
 - **Hotel Sancho Abarca (Huesca)**
-	- 💶 ~65–80€
+	- 💶 ~70–85€
 	- 📍 Centro, mas com acessos fáceis
 	- ✅ Muito usado por viajantes de passagem
+- **Hotel Lizana**
+	- 💶 ~60–75€
+	- 📍 Simples, funcional
+	- ✅ Boa relação preço/localização
 - **Hotel Pedro I de Aragón (Huesca)**
 	- Biker friendly 
 	- Central mas com acesso simples
