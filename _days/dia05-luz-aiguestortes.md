@@ -4,7 +4,7 @@ title: "Dia 5 — Luz → Gavarnie → Aigüestortes"
 day: 5
 ---
 
-# [⬅️ Dia 4](dia04-aspe-luz) ||||| [Dia 6 ➡️](dia06-aiguestortes-andorra)
+# [⬅️ Dia 4](../dia04-aspe-luz) ||||| [Dia 6 ➡️](../dia06-aiguestortes-andorra)
 
 # Dia 5 — Luz → Gavarnie → Aigüestortes
 

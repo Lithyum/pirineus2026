@@ -4,7 +4,7 @@ title: "Dia 3 — Canfranc → Col du Somport → Vale de Aspe (França)"
 day: 3
 ---
 
-# [⬅️ Dia 2](dia02-huesca-canfranc) ||||| [Dia 4 ➡️](dia04-aspe-luz)
+# [⬅️ Dia 2](../dia02-huesca-canfranc) ||||| [Dia 4 ➡️](../dia04-aspe-luz)
 
 # Dia 3 — Canfranc → Col du Somport → Vale de Aspe (França)
 

@@ -4,7 +4,7 @@ title: "Dia 6 — Aigüestortes → N‑260 → Andorra"
 day: 6
 ---
 
-# [⬅️ Dia 5](dia05-luz-aiguestortes) ||||| [Dia 7 ➡️](dia07-andorra-zaragoza)
+# [⬅️ Dia 5](../dia05-luz-aiguestortes) ||||| [Dia 7 ➡️](../dia07-andorra-zaragoza)
 
 # Dia 6 — Aigüestortes → N‑260 → Andorra
 

@@ -4,7 +4,7 @@ title: "Dia 2 — Huesca → Canfranc"
 day: 2
 ---
 
-# [⬅️ Dia 1](dia01-lisboa-huesca) ||||| [Dia 3 ➡️](dia03-canfranc-aspe/)
+# [⬅️ Dia 1](../dia01-lisboa-huesca) ||||| [Dia 3 ➡️](../dia03-canfranc-aspe/)
 
 # Dia 2 (14/11) — Huesca → Canfranc
 

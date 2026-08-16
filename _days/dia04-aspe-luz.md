@@ -4,7 +4,7 @@ title: "Dia 4 — Vale de Aspe → Col d’Aubisque → Luz‑Saint‑Sauveur"
 day: 4
 ---
 
-# [⬅️ Dia 3](dia03-canfranc-aspe/) ||||| [Dia 5 ➡️](dia05-luz-aiguestortes)
+# [⬅️ Dia 3](../dia03-canfranc-aspe/) ||||| [Dia 5 ➡️](../dia05-luz-aiguestortes)
 
 # Dia 4 — Vale de Aspe → Col d’Aubisque → Luz‑Saint‑Sauveur
 
