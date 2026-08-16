@@ -4,6 +4,8 @@ title: "Dia 7 — Andorra → Pirenéus catalães → Zaragoza"
 day: 7
 ---
 
+# [⬅️ Dia 6](dia06-aiguestortes-andorra) |||||
+
 # Dia 7 — Andorra → Pirenéus catalães → Zaragoza
 
 - **Distância / Tempo:** ≈300 km · ~5h  
