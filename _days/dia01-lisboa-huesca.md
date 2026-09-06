@@ -6,7 +6,7 @@ day: 1
 
 # ||||| [Dia 2 ➡️](../dia02-huesca-canfranc)
 
-# Dia 1 (13/11) — Lisboa → Huesca
+# Dia 1 (09/11) — Lisboa → Huesca
 
 - **Distância / Tempo:** ≈900 km · ~9h  
 - **Dificuldade:** Fácil  
@@ -18,6 +18,9 @@ Dia de ligação rápida por autoestrada.
 Objetivo: ganhar quilómetros e chegar descansado ao sopé dos Pirenéus.
 
 ## 🛏️ Hotel
+- **[Pension bandres](https://www.pensionbandreshuesca.com/)**
+    - 💶 47€ sem PA
+	- 📍 localização central quartos duplos
 - **[Hotel Sancho Abarca (Huesca)](https://www.gargallo-hotels.com/disponibilidad.html?id_hotel=SYN3200&start=2026-11-13&end=2026-11-14&guests[0][adults]=2&guests[1][adults]=1&city_id=100174#monoHotelAvail/EUR)**
 	- 💶 125€ com p.a. (2 quartos)
 	- 📍 Centro, mas com acessos fáceis

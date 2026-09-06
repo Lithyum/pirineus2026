@@ -6,23 +6,45 @@ day: 2
 
 # [⬅️ Dia 1](../dia01-lisboa-huesca) ||||| [Dia 3 ➡️](../dia03-canfranc-aspe/)
 
-# Dia 2 (14/11) — Huesca → Canfranc
+# Dia 2 (10/11) — Huesca → Canfranc → Col du Somport → Vale de Aspe (França)
 
-- **Distância / Tempo:** ≈150 km · ~4h  
-- **Dificuldade:** Fácil  
-- **Altitude máx.:** ≈1 600 m (Somport)  
+- **Distância / Tempo:** ≈160 km · ~4h  
 - **Ícones:** 🟤 OFF · 🚶 WALK · 🏔️ PASS  
+
+### Google Maps (a fazer embutido...)
+https://maps.app.goo.gl/E5SmPv3B8bh1v2m29
 
 ## ✅ Pontos de Interesse
 - **Jaca:** cidade histórica com catedral românica.
 - **Estação Internacional de Canfranc:** ícone ferroviário europeu.
 - **Ibón de Estanés:** lago alpino acessível por pista.
+- **Col du Somport:** travessia histórica Espanha–França. Vistas amplas sobre Espanha e França
+- **Vale de Aspe:** aldeias francesas tradicionais.
+- **Bedous / Accous:** Aldeias francesas autênticas. Cafés simples, ambiente local
+
+### 🚶Trilhos pedestres
+- **[Trilho CArniceras desde Canfranc](https://pt.wikiloc.com/trilhas-trekking/pico-carniceras-desde-canfranc-pueblo-253066694)
+    - 🛣️ 6,5 Km
+	- 🎚️ 431 m
+	- 💪 Fácil
+- **Ibón de Estanés**
+    - Lago alpino
+    - Caminho largo, sem desníveis técnicos
+    - Ideal para relaxar depois da mota
 
 ## 🛏️ Hotel
+- **[Hotel Transhumance & Cie (Accous)](https://www.transhumance-pyrenees.fr/reservation/?idPublication=c1836221-eb9e-46c7-9b36-7da849bc4b64&idoi=9ceac04c-0812-4d65-be67-092078c911bc&culture=en-GB&dateTo=11/11/2026&dateFrom=10/11/2026&NbAdultes1=2&NbAdultes2=1)**
+	- 💶 70~90€
+	- 📍 Bedous / Accous - Dentro da vila
+	- ✅ Pequeno, local, ambiente de montanha
 - **[Albergue Turístico Canfranc Estación (quartos privados)](https://alberguerioaragon.com/tarifas/)**
 	- 💶 70€ em quarto triplo com casa de banho privada
 	- 📍 Junto à estação
 	- ✅ Albergue, Estilo simples, ambiente descontraído
+- **~[Auberge de l’Étable (Accous)](https://www.auberge-etable.com/)~**
+	- 💶 ~65–80€~ Sem disponibilidade
+	- 📍 Aldeia pequena
+	- ✅ Ambiente local, muito calma
 - **~~Hotel El Acebo de Casa Muria (zona Jaca / Villanúa)~~**
 	- ❌ Já não está disponível para as datas de 14~15/11
     - 📍 Ambiente rural
@@ -36,24 +58,10 @@ day: 2
 	- 💶 ~75–85€ 
 	- 📍 Vila tranquila
 	- ✅ Muito boa reputação entre caminhantes e motards
+- ~**Hotel Bar du Commerce (Bedous)**~
+	- 💶 ~70–85€~ Sem disponibilidade
+	- 📍 Clássico alpino
+	- ✅ Estacionamento fácil
 
 
-## 🚶 Passeio a pé LEVE #1 (≈45 min)
-Ibón de Estanés
 
-Lago alpino
-Caminho largo, sem desníveis técnicos
-Ideal para relaxar depois da mota
-
-
-## 🏍️ Off‑road ligeiro
-
-Pista Canfranc → Ibón de Estanés
-
-Terra batida + gravilha
-Vista aberta sobre o vale
-Excelente primeiro contacto off‑road
-
-GPX
-
-- `gpx/offroad1_canfranc_estanes.gpx`

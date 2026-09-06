@@ -1,17 +1,12 @@
 ---
 layout: home
-title: Pirenéus de Big Trail
+title: Pirenéus 2026
 ---
 
-🏍️ **Roteiro de 8 dias em mota big trail**  
-📍 Lisboa · Pirenéus · Andorra · Lisboa  
-📅 27 de junho → 4 de julho
+🏍️ **Roteiro de 7/8 dias**  
+📍 Lisboa · Pirenéus · Andorra/Cap de Creus · Lisboa  
+📅 9 de novembro → 16 de novembro
 
-Viagem focada em:
-- estradas cénicas
-- passes de montanha
-- off-road ligeiro selecionado
-- caminhadas curtas
 
 ---
 
@@ -33,7 +28,7 @@ Coleções: {{ site.collections | map: "label" | join: ", " }}
 1 [Mapa geral](/assets/mapa_geral.png)
 
 ### 📍 GPX
-[Download](/gpx/roteiro_pirineus_bigtrail.gpx)
+[Download](/gpx/roteiro_pirineus_2026.gpx)
 
 #### Como usar este GPX da melhor forma (big trail)
 **Opção A — Navegação simples**
@@ -65,7 +60,3 @@ Este GPX não contém um track contínuo ponto‑a‑ponto, mas sim:
 ✅ Waypoints corretos e fiáveis
 ✅ Total compatibilidade com qualquer planeador moderno
 
-👉 Isto é intencional e recomendável para viagens longas:
-
-Evita problemas com estradas fechadas
-Permite ajustes diários conforme tempo / cansaço
