@@ -6,26 +6,16 @@ day: 4
 
 # [⬅️ Dia 3](../dia03-canfranc-aspe/) ||||| [Dia 5 ➡️](../dia05-luz-aiguestortes)
 
-# Dia 4 — Vale de Aspe → 
+# Dia 4 (12/11) — Luz‑Saint‑Sauveur / Sainte-Marie de Campan → 
 
-- **Distância / Tempo:** ≈140 km · ~5h  
-- **Dificuldade:** Médio+  
-- **Altitude máx.:** ≈1 709 m (Col d’Aubisque)  
-- **Ícones:** 🏔️ PASS  
+%- **Distância / Tempo:** ≈140 km · ~5h  
+%- **Dificuldade:** Médio+  
+%- **Altitude máx.:** ≈1 709 m (Col d’Aubisque)  
+%- **Ícones:** 🏔️ PASS  
 
 ## ✅ Pontos de Interesse
-- **Col d’Aubisque:** um dos passes mais emblemáticos dos Pirenéus. Curvas técnicas + vistas aéreas
-- **Luz‑Saint‑Sauveur:** Vila alpina charmosa. Excelente base de montanha
 
 ## 🛏️ Hotel
-- **Hôtel Les Templiers** 
-	- 💶 ~70–85€
-	- 📍 Centro da vila
-	- ✅ Muito usado por ciclistas e motards
-- **Hôtel Ardiden**
-	- 💶 ~70–90€
-	- 📍 Acesso fácil
-	- ✅ Simples e honesto
 
 
 ## GPX

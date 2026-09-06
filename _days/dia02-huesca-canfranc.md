@@ -9,7 +9,6 @@ day: 2
 # Dia 2 (10/11) — Huesca → Canfranc → Col du Somport → Vale de Aspe (França)
 
 - **Distância / Tempo:** ≈160 km · ~4h  
-- **Ícones:** 🟤 OFF · 🚶 WALK · 🏔️ PASS  
 
 ### Google Maps (a fazer embutido...)
 [https://maps.app.goo.gl/E5SmPv3B8bh1v2m29](https://maps.app.goo.gl/E5SmPv3B8bh1v2m29)
@@ -41,6 +40,10 @@ day: 2
 	- 💶 70€ em quarto triplo com casa de banho privada
 	- 📍 Junto à estação
 	- ✅ Albergue, Estilo simples, ambiente descontraído
+- **[Auberge des Isards (Etsaut)](https://www.auberge-isards.com/en-GB/)**
+    - Sem disponibilidade. Só a partir do dia seguinte...
+	- Clássico alpino
+	- Muito próximo da estrada D934
 - **~[Auberge de l’Étable (Accous)](https://www.auberge-etable.com/)~**
 	- 💶 ~65–80€~ Sem disponibilidade
 	- 📍 Aldeia pequena
