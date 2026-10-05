@@ -8,7 +8,8 @@ day: 3
 
 # Dia 3 (12/11) — Benou → Col d’Aubisque → Luz‑Saint‑Sauveur → Sainte-Marie de Campan
 
-### Google Maps (a fazer embutido...)
+## Google Maps
+
 <div style="width: 100%; max-width: 900px;">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d399328.3859724571!2d-0.36027019999999765!3d42.99183680000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xd57a7ef0aea5a19%3A0x40665174813a950!2sBedous%2C%2064490%2C%20Fran%C3%A7a!3m2!1d42.999165999999995!2d-0.600511!4m5!1s0xd57bafe9dc8d5a5%3A0x46b72b283e88f0e4!2svall%C3%A9e%20d'Ossau%2C%2064440%20Laruns%2C%20Fran%C3%A7a!3m2!1d42.9831363!2d-0.4171117!4m5!1s0xd57b8e0af6461ab%3A0x5ec96067194db176!2sRte%20du%20Col%20d'Aubisque%2C%2064440%20Eaux-Bonnes%2C%20Fran%C3%A7a!3m2!1d42.960271399999996!2d-0.331431!4m5!1s0x12a81fc86dcd67d5%3A0x406f69c2f3d7b90!2sLuz-Saint-Sauveur%2C%2065120%2C%20Fran%C3%A7a!3m2!1d42.873542!2d-0.002869!4m5!1s0x12a83986d2c8f72b%3A0xdf500961513d3e13!2sSainte-Marie%20de%20Campan%2C%2065710%20Campan%2C%20Fran%C3%A7a!3m2!1d42.985276999999996!2d0.227314!5e1!3m2!1spt-PT!2spt!4v1791214549796!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
