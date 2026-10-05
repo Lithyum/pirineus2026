@@ -4,15 +4,14 @@ title: "Dia 3 — Canfranc → Col du Somport → Vale de Aspe (França)"
 day: 3
 ---
 
-# [⬅️ Dia 2](../dia02-huesca-canfranc) ||||| [Dia 4 ➡️](../dia04-aspe-luz)
+# [⬅️ Dia 2](../dia02) ||||| [Dia 4 ➡️](../dia04)
 
-# Dia 3 (11/11) — Benou → Col d’Aubisque → Luz‑Saint‑Sauveur → Sainte-Marie de Campan
-
-- **Distância / Tempo:** 140 km · ~4h  
-
+# Dia 3 (12/11) — Benou → Col d’Aubisque → Luz‑Saint‑Sauveur → Sainte-Marie de Campan
 
 ### Google Maps (a fazer embutido...)
-[https://maps.app.goo.gl/Zkg6DkHEpixsEmnF7](https://maps.app.goo.gl/Zkg6DkHEpixsEmnF7)
+[Direto para Saint-Marie de Campan - 144Km | 3h 30m](https://maps.app.goo.gl/Zkg6DkHEpixsEmnF7)
+[Com desvio por Circo de Gavarnie - 188Km  | 6h](https://maps.app.goo.gl/QYxXWREZqCxM5J528)
+
 
 ## ✅ Pontos de Interesse
 - **Plateau du Bénou:** planalto panorâmico com pistas abertas.

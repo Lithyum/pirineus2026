@@ -4,9 +4,9 @@ title: "Dia 1 — Lisboa → Huesca"
 day: 1
 ---
 
-# ||||| [Dia 2 ➡️](../dia02-huesca-canfranc)
+# ||||| [Dia 2 ➡️](../dia02)
 
-# Dia 1 (09/11) — Lisboa → Huesca
+# Dia 1 (10/11) — Lisboa → Huesca
 
 - **Distância / Tempo:** ≈900 km · ~9h  
 - **Dificuldade:** Fácil  

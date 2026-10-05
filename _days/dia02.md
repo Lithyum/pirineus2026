@@ -4,14 +4,13 @@ title: "Dia 2 — Huesca → Canfranc"
 day: 2
 ---
 
-# [⬅️ Dia 1](../dia01-lisboa-huesca) ||||| [Dia 3 ➡️](../dia03-canfranc-aspe/)
+# [⬅️ Dia 1](../dia01) ||||| [Dia 3 ➡️](../dia03/)
 
-# Dia 2 (10/11) — Huesca → Canfranc → Col du Somport → Vale de Aspe (França)
-
-- **Distância / Tempo:** ≈160 km · ~4h  
+# Dia 2 (11/11) — Huesca → Canfranc → Col du Somport → Vale de Aspe (França)
 
 ### Google Maps (a fazer embutido...)
-[https://maps.app.goo.gl/E5SmPv3B8bh1v2m29](https://maps.app.goo.gl/E5SmPv3B8bh1v2m29)
+[Sem Ib'on de Estanés - 155Km | 3h 30m](https://maps.app.goo.gl/E5SmPv3B8bh1v2m29)
+[Passando por Ibón de Estanés (Passeio a pé) - 165Km | 4h](https://maps.app.goo.gl/Wts8kRuKmj7p6J6AA)
 
 ## ✅ Pontos de Interesse
 - **Jaca:** cidade histórica com catedral românica.

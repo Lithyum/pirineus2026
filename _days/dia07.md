@@ -6,7 +6,9 @@ day: 7
 
 # [⬅️ Dia 6](../dia06-aiguestortes-andorra) |||||
 
-# Dia 7 — Andorra → Pirenéus catalães → Zaragoza
+# Dias 7 e 8 — Andorra → Regresso
+
+
 
 - **Distância / Tempo:** ≈300 km · ~5h  
 - **Dificuldade:** Fácil  
@@ -35,4 +37,3 @@ Transição da montanha para as planícies de Aragão.
 	- Fácil de entrar e sair da cidade
 
 ## GPX
-- `gpx/roteiro_pirineus_bigtrail.gpx`
